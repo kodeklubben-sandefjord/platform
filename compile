@@ -1,0 +1,3 @@
+sudo npm run deploy
+cd $phoenix_dir
+sudo mix "${phoenix_ex}.digest
